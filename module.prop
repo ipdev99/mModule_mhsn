@@ -1,0 +1,7 @@
+id=mhsn
+name=mHide SafetyNet
+version=Module (v2)
+versionCode=20
+author=ip
+description=This module will help pass SafetyNet on devices that do not support hardware attestation.
+updateJson=https://raw.githubusercontent.com/ipdev99/mModule_mhsn/master/mhsn.json
